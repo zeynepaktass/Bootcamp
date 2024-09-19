@@ -83,3 +83,6 @@ K-Means Kümeleme: Her bir kümede [4331, 4158] örnek bulunmaktadır.
 Hiyerarşik Kümeleme: Her bir kümede [4169, 4320] örnek bulunmaktadır.
 DBSCAN: Birden fazla küme tespit edilmiştir ve bazı veri noktaları gürültü olarak belirlenmiştir.
 Gaussian Mixture Models: K-Means ile benzer sonuçlar elde edilmiştir, kümeler [4331, 4158] örnek içermektedir.
+
+Kaggle link: https://www.kaggle.com/code/zeynepaktas1187/machinelearningbootcamp
+
